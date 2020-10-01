@@ -1,3 +1,17 @@
-p {
-   background-color: red;
+* {
+   color: darkred;
 }
+
+.punainen{
+ 
+   color: red; 
+   }
+   
+    
+li {
+   color: hotpink;
+}
+
+h1 {
+	color: darkblue;
+	}
